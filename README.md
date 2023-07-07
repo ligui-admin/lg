@@ -1,6 +1,6 @@
 :bangbang::bangbang:立柜 地址发布:bangbang::bangbang:
 ==
-:star: :point_right: 【地址一】 ：
+:star: :point_right: 【地址一】 ：www.ligui.com
 ------
 :star: :point_right: 【地址二】 ：
 ------
