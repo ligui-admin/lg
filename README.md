@@ -2,7 +2,7 @@
 ==
 :star: :point_right: 【地址一】 ：www.ligui.com
 ------
-:star: :point_right: 【地址二】 ：
+:star: :point_right: 【地址二】 ：www.liguigw.com
 ------
 :star: :point_right: 【地址三】 ：
 ------
